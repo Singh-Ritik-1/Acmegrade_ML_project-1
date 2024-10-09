@@ -83,4 +83,5 @@ The primary objective of this project is to provide an integrated platform that 
 The predicted stock prices and their comparison with actual prices will be displayed in the terminal and visualized in graphs.
 
 
-output : ![image](https://github.com/user-attachments/assets/9277e643-9d38-4a02-a3e1-0878c3453979)
+output : ![image](https://github.com/user-attachments/assets/6ef36994-ae7e-4595-90d7-9c213336f19f)
+
